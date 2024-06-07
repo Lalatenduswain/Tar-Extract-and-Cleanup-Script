@@ -7,8 +7,8 @@ This repository contains a Bash script that extracts `.tar.gz` files in a specif
 Clone this repository from [here](https://github.com/Lalatenduswain/ExtractAndCleanup).
 
 ```bash
-git clone https://github.com/Lalatenduswain/ExtractAndCleanup.git
-cd ExtractAndCleanup
+git clone https://github.com/Lalatenduswain/Tar-Extract-and-Cleanup-Script.git
+cd Tar-Extract-and-Cleanup-Script
 ```
 
 ## Prerequisites
@@ -29,8 +29,8 @@ The script is named `extract_and_cleanup.sh` and accepts a directory as an argum
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Lalatenduswain/ExtractAndCleanup.git
-    cd ExtractAndCleanup
+    git clone https://github.com/Lalatenduswain/Tar-Extract-and-Cleanup-Script.git
+    cd Tar-Extract-and-Cleanup-Script
     ```
 
 2. **Make the script executable:**
